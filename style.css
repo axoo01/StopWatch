@@ -1,10 +1,10 @@
 :root {
-    --primary: #d4af37; /* Soft gold for accents */
-    --accent: #1e3a8a; /* Midnight blue for subtle highlights */
-    --text-light: #1c2526; /* Deep charcoal for light mode text */
-    --text-dark: #e8e8e8; /* Creamy off-white for dark mode text */
-    --bg-light: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%); /* Ivory gradient */
-    --bg-dark: linear-gradient(135deg, #1c2526 0%, #2d3748 100%); /* Charcoal gradient */
+    --primary: #d4af37;
+    --accent: #1e3a8a; 
+    --text-light: #1c2526;
+    --text-dark: #e8e8e8; 
+    --bg-light: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%);
+    --bg-dark: linear-gradient(135deg, #1c2526 0%, #2d3748 100%); 
     --glass-bg: rgba(255, 255, 255, 0.2);
     --glass-dark: rgba(30, 30, 30, 0.85);
     --shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
@@ -211,7 +211,7 @@ body.dark .time-display {
 }
 
 .start-btn {
-    background: #2d3748; /* Deep slate */
+    background: #2d3748; 
 }
 
 body.dark .start-btn {
@@ -219,7 +219,7 @@ body.dark .start-btn {
 }
 
 .pause-btn {
-    background: #4a5568; /* Slightly lighter slate */
+    background: #4a5568; 
 }
 
 body.dark .pause-btn {
@@ -227,7 +227,7 @@ body.dark .pause-btn {
 }
 
 .lap-btn {
-    background: var(--primary); /* Gold */
+    background: var(--primary); 
 }
 
 body.dark .lap-btn {
@@ -235,7 +235,7 @@ body.dark .lap-btn {
 }
 
 .reset-btn {
-    background: var(--accent); /* Midnight blue */
+    background: var(--accent);
 }
 
 body.dark .reset-btn {
