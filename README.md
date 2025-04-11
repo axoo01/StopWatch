@@ -15,4 +15,4 @@ A luxurious stopwatch I built to dive deep into advanced CSS and JavaScript, lea
 
 ## Demo
 
-[Click here for the live demo](https://axoo01.github.io/Calculator/)
+[Click here for the live demo](https://axoo01.github.io/StopWatch/)
